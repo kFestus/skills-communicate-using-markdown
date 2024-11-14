@@ -5,3 +5,6 @@
 ##### Same thing
 ###### The smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+const welcomeMessage = "Hello guys!";
+```
